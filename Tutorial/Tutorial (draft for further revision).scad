@@ -4,7 +4,7 @@ Sage Ridge Robotics OpenSCAD tutorial file.
 Christopher von Nagy, July 2014.
 
 This tutorial is released under the terms of the
-Creative Commons Attribnution 4.0 license 
+Creative Commons Attribution 4.0 license 
 (CC by 4.0). See the end of this tutorial file for the license code.
 
 
