@@ -41,7 +41,9 @@ Tutorial — Parametric gears: The Tutorial — Parametric gears directory conta
 Information on gears can be found at:
 
   http://en.wikipedia.org/wiki/Involute_gear
+  
   http://en.wikipedia.org/wiki/Gear
+  
   http://en.wikipedia.org/wiki/List_of_gear_nomenclature
   
   
